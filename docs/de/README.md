@@ -198,6 +198,7 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 ## Änderungsprotokoll (Changelog)
 
 ### **WORK IN PROGRESS**
+* (meistermopper) check:repo Skript hinzugefügt und in test:local integriert
 * (meistermopper) E-Mail in Lizenz-Copyrightzeilen wiederhergestellt (S4050, S4051)
 * (meistermopper) Lizenzabschnitt in README gemäß Repochecker-Regel W6034 korrigiert
 
