@@ -197,6 +197,7 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 
 ## Changelog
 ### **WORK IN PROGRESS**
+* (meistermopper) Restore email in license copyright lines (S4050, S4051)
 * (meistermopper) Fix license section in README to satisfy repo-checker rule W6034
 
 ### 0.5.1 (2026-09-12)
@@ -242,6 +243,6 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 ## License
 MIT License
 
-Copyright (c) 2026 meistermopper
+Copyright (c) 2026 meistermopper <meister.mopper@gmail.com>
 
 See the [LICENSE](../../LICENSE) file for the full license text.
