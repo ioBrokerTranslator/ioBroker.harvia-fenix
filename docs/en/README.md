@@ -197,6 +197,7 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 
 ## Changelog
 ### **WORK IN PROGRESS**
+* (meistermopper) Fix license section in README to satisfy repo-checker rule W6034
 
 ### 0.5.1 (2026-09-12)
 * (meistermopper) Replace adapter logo with custom MyFenix homage logo
@@ -241,4 +242,6 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 ## License
 MIT License
 
-Copyright (c) 2026 meistermopper <meister.mopper@gmail.com>
+Copyright (c) 2026 meistermopper
+
+See the [LICENSE](../../LICENSE) file for the full license text.

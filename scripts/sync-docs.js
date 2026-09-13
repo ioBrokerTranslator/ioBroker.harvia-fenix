@@ -30,6 +30,8 @@ if (fs.existsSync(enReadmeSrc)) {
 	content = content.replace(/\]\(README_de\.md\)/g, '](../de/README.md)');
 	// Replace link to older changelog CHANGELOG_OLD.md with relative link to root
 	content = content.replace(/\]\(CHANGELOG_OLD\.md\)/g, '](../../CHANGELOG_OLD.md)');
+	// Replace link to LICENSE file with relative link to root
+	content = content.replace(/\]\(LICENSE\)/g, '](../../LICENSE)');
 	fs.writeFileSync(enReadmeDst, content, 'utf8');
 	console.log('Synchronized README.md (en) successfully.');
 } else {
@@ -45,6 +47,8 @@ if (fs.existsSync(deReadmeSrc)) {
 	content = content.replace(/\]\(README\.md\)/g, '](../en/README.md)');
 	// Replace link to older changelog CHANGELOG_OLD.md with relative link to root
 	content = content.replace(/\]\(CHANGELOG_OLD\.md\)/g, '](../../CHANGELOG_OLD.md)');
+	// Replace link to LICENSE file with relative link to root
+	content = content.replace(/\]\(LICENSE\)/g, '](../../LICENSE)');
 	fs.writeFileSync(deReadmeDst, content, 'utf8');
 	console.log('Synchronized README_de.md (de) successfully.');
 } else {
