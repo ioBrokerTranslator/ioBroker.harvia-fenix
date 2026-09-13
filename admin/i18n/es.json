@@ -10,7 +10,7 @@
     "Minimum Temperature Limit Help": "Límite inferior para la configuración de temperatura objetivo (por defecto 40 °C).",
     "Partner ID (Optional)": "ID de Socio (Opcional)",
     "Partner ID Help": "Solo necesario para cuentas compartidas/invitados. Ingrese la ID de Socio del propietario aquí (ej. ORG/prod:0:1234).",
-    "Password": "Contraseña",
+    "Password": "Clave",
     "Polling Interval (seconds)": "Intervalo de consulta (segundos)",
     "Polling Interval Help": "Mínimo 30 s, por defecto 60 s. Nota: Cuando ejecute varias instancias, no lo configure demasiado bajo para evitar límites de velocidad en la nube de Harvia (HTTP 429).",
     "Username / Email": "Nombre de usuario / Correo electrónico"
