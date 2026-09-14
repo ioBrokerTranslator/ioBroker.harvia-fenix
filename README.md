@@ -197,9 +197,11 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 
 ## Changelog
 ### **WORK IN PROGRESS**
+* (meistermopper) Add automated release notes generator for GitHub releases
 * (meistermopper) Add check:repo script and integrate repochecker into test:local
 * (meistermopper) Restore email in license copyright lines (S4050, S4051)
 * (meistermopper) Fix license section in README to satisfy repo-checker rule W6034
+
 
 ### 0.5.1 (2026-09-12)
 * (meistermopper) Replace adapter logo with custom MyFenix homage logo

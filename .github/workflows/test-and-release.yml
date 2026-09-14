@@ -95,3 +95,9 @@ jobs:
           # sentry-sourcemap-paths: "build/"
           # If your sentry project is linked to a GitHub repository, you can enable the following option
           # sentry-github-integration: true
+
+      - name: Update GitHub Release notes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-release-notes.js ${{ github.ref_name }}
+
