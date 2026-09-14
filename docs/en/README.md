@@ -197,6 +197,7 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 
 ## Changelog
 ### **WORK IN PROGRESS**
+* (meistermopper) Add breaking change callouts and older tag support to release notes
 * (meistermopper) Add automated release notes generator for GitHub releases
 * (meistermopper) Add check:repo script and integrate repochecker into test:local
 * (meistermopper) Restore email in license copyright lines (S4050, S4051)
