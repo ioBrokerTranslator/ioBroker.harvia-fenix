@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="admin/fenix.png" alt="Logo" width="100" />
+  <img src="admin/fenix.png" alt="Logo" width="200" />
 </p>
 
 # ioBroker.harvia-fenix
@@ -198,6 +198,7 @@ on({ id: 'harvia-fenix.0.info.heatingAnomaly', change: 'ne', val: true }, functi
 ## Änderungsprotokoll (Changelog)
 
 ### **WORK IN PROGRESS**
+* (meistermopper) Logo-Anzeigegroesse in den README-Dateien auf 200px verdoppelt
 * (meistermopper) Breaking-Changes-Hinweise und Altrelease-Support für Release-Notes
 * (meistermopper) Automatische Generierung von Release Notes für GitHub eingerichtet
 * (meistermopper) check:repo Skript hinzugefügt und in test:local integriert
