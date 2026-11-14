@@ -1,15 +1,15 @@
 {
-  "Device ID (Optional)": "Geräte-ID (Optional)",
-  "Device ID Help": "Leer lassen für automatische Erkennung. WICHTIG: Wenn Sie mehrere Instanzen für verschiedene Saunen nutzen, MÜSSEN Sie hier für jede Instanz die korrekte Geräte-ID eintragen.",
-  "Login Settings": "Login-Einstellungen",
-  "Maximum Heating Duration (minutes)": "Maximale Heizdauer (Minuten)",
-  "Maximum Heating Duration Help": "Standard 360 Min. Hinweis: Eine übliche Sauna (ohne zusätzliche Isolation) gibt nach ca. 5 Stunden (300 Min.) die Hitze verstärkt nach außen weiter, wodurch ein deutlicher Energieverlust entsteht.",
-  "Maximum Temperature Limit (°C)": "Maximale Zieltemperatur (°C)",
-  "Maximum Temperature Limit Help": "Obere Grenze für die Zieltemperatur-Einstellung (Standard 110 °C).",
-  "Minimum Temperature Limit (°C)": "Minimale Zieltemperatur (°C)",
-  "Minimum Temperature Limit Help": "Untere Grenze für die Zieltemperatur-Einstellung (Standard 40 °C).",
-  "Partner ID (Optional)": "Partner-ID (Optional)",
-  "Partner ID Help": "Nur für freigegebene/geteilte Konten nötig. Tragen Sie hier die Partner-ID des Hauptnutzers ein (z. B. ORG/prod:0:1234).",
-  "Password": "Passwort",
-  "Username / Email": "Benutzername / E-Mail"
+    "Device ID (Optional)": "Geräte-ID (Optional)",
+    "Device ID Help": "Leer lassen für automatische Erkennung. WICHTIG: Wenn Sie mehrere Instanzen für verschiedene Saunen nutzen, MÜSSEN Sie hier für jede Instanz die korrekte Geräte-ID eintragen.",
+    "Login Settings": "Login-Einstellungen",
+    "Maximum Heating Duration (minutes)": "Maximale Heizdauer (Minuten)",
+    "Maximum Heating Duration Help": "Standard 360 Min. Hinweis: Eine übliche Sauna (ohne zusätzliche Isolation) gibt nach ca. 5 Stunden (300 Min.) die Hitze verstärkt nach außen weiter, wodurch ein deutlicher Energieverlust entsteht.",
+    "Maximum Temperature Limit (°C)": "Maximale Zieltemperatur (°C)",
+    "Maximum Temperature Limit Help": "Obere Grenze für die Zieltemperatur-Einstellung (Standard 110 °C).",
+    "Minimum Temperature Limit (°C)": "Minimale Zieltemperatur (°C)",
+    "Minimum Temperature Limit Help": "Untere Grenze für die Zieltemperatur-Einstellung (Standard 40 °C).",
+    "Partner ID (Optional)": "Partner-ID (Optional)",
+    "Partner ID Help": "Nur für freigegebene/geteilte Konten nötig. Tragen Sie hier die Partner-ID des Hauptnutzers ein (z. B. ORG/prod:0:1234).",
+    "Password": "Passwort",
+    "Username / Email": "Benutzername / E-Mail"
 }
